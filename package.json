@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "type": "module",
   "description": "A description of your React package",
-  "main": "src/index.js",
+  "main": "src/index.html",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
